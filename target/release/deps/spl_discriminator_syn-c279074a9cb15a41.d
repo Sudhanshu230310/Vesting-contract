@@ -1,0 +1,9 @@
+/Users/sudhanshugaur/Downloads/developer-bootcamp-2024-main/project-8-token-vesting/anchor/target/release/deps/libspl_discriminator_syn-c279074a9cb15a41.rmeta: /Users/sudhanshugaur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.2.1/src/lib.rs /Users/sudhanshugaur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.2.1/src/error.rs /Users/sudhanshugaur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.2.1/src/parser.rs
+
+/Users/sudhanshugaur/Downloads/developer-bootcamp-2024-main/project-8-token-vesting/anchor/target/release/deps/libspl_discriminator_syn-c279074a9cb15a41.rlib: /Users/sudhanshugaur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.2.1/src/lib.rs /Users/sudhanshugaur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.2.1/src/error.rs /Users/sudhanshugaur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.2.1/src/parser.rs
+
+/Users/sudhanshugaur/Downloads/developer-bootcamp-2024-main/project-8-token-vesting/anchor/target/release/deps/spl_discriminator_syn-c279074a9cb15a41.d: /Users/sudhanshugaur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.2.1/src/lib.rs /Users/sudhanshugaur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.2.1/src/error.rs /Users/sudhanshugaur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.2.1/src/parser.rs
+
+/Users/sudhanshugaur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.2.1/src/lib.rs:
+/Users/sudhanshugaur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.2.1/src/error.rs:
+/Users/sudhanshugaur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.2.1/src/parser.rs:
